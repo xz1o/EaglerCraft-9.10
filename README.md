@@ -7,7 +7,7 @@
 
 2. Open the zip in your files.
 
-3. Find the eaglercraft.1.5.2.html file.
+3. Find the eaglercraft.9.10.html file.
 
 4. Open the file and let it load.
 
