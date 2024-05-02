@@ -1,6 +1,6 @@
 # EaglerCraft-9.10 browser
 
- Eaglercraft 1.5.2 javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft.
+ Eaglercraft 9.10 javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft.
 # How to launch game in browser:
 
 1. Download the zip file.
@@ -13,7 +13,7 @@
 
 # Servers
 
-Go to this doc (had to use the wayback machine) to get a list of Multiplayer Server Adresses. I do not own it or edit it in any way.
+Go to [this doc]([url](https://web.archive.org/web/20230205110931/https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit)) (had to use the wayback machine) to get a list of Multiplayer Server Adresses. I do not own it or edit it in any way.
 
 # IMPORTANT!
 
